@@ -72,7 +72,7 @@ window.addEventListener('load', (event) => {
 </tr>
 <tr>
 <td class="timecell"><noscript>09:45</noscript></td>
-<td>[Kirk Leech](#Kirk)</td>
+<td><a href="#Kirk">Kirk Leech</a></td>
 </tr>
 <tr>
 <td class="timecell"><noscript>10:15</noscript></td>
