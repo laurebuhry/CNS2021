@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# CNS 2021 Workshop
+CNS 2021 Workshop "Clinical computational neuroscience: How computational neuroscience can solve problems from the clinic"
 
-You can use the [editor on GitHub](https://github.com/dr-xenia/CNS2021/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Organizers: Xenia Kobeleva and Laure Buhry
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Date: July 7th  — 9:30 am to 5:45 pm (Paris Time)
 
-### Markdown
+## Abstract and Programme:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Despite great advances in understanding of brain function using computational neuroscience, complex neural activity analyses and models are rarely used for clinical purposes. This workshop aims to bridge this gap and to bring computational neuroscientists and clinicians together to discuss current challenges and solutions for bringing more computational neuroscience to patient-oriented questions. Topics will include translation from animal models to patients, exploration of virtual therapies and personalized medicine. Apart from several success stories of clinical computational neuroscience, we will also have discussion rounds to deep dive into current challenges of the computational neuroscience community and their potential solutions. The outcome of the workshop will be to:
 
-```markdown
-Syntax highlighted code block
+* inform interested researchers on clinically relevant questions
+* provide an overview of computational tools that can be used to answer these questions
+* establish a working group on clinical computational neuroscience for all interested researchers and discuss practical steps to work on the roadblocks that were identified during the workshop
+stablish a working group on clinical computational neuroscience for all interested researchers and discuss practical steps to work on the roadblocks that were identified during the workshop
 
-# Header 1
-## Header 2
-### Header 3
+The day will be organized around three challenges:
+* Challenge 1: Translation from animal models to patients: bridging species and scales
+* Challenge 2: Virtual therapies: exploring new options and refining existing treatments
+* Challenge 3: Personalized medicine: how to make models fit the patient
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dr-xenia/CNS2021/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
