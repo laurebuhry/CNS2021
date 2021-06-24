@@ -88,12 +88,12 @@ window.addEventListener('load', (event) => {
 	
 <tr>
 <td class="timecell"><noscript>11:30</noscript></td>
-<td><a href="#Matthieu">Yujiang Wang</td>
+<td><a href="#Yujiang">Yujiang Wang</td>
 </tr>
 	
 <tr>
 <td class="timecell"><noscript>12:00</noscript></td>
-<td><a href="#Matthieu">Jil Meier</td>
+<td><a href="#Jil">Jil Meier</td>
 </tr>
 	
 <tr>
@@ -103,22 +103,22 @@ window.addEventListener('load', (event) => {
 	
 <tr>
 <td class="timecell"><noscript>14:00</noscript></td>
-<td><a href="#Matthieu">Christian Meisel</td>
+<td><a href="#Christian">Christian Meisel</td>
 </tr>
 	
 <tr>
 <td class="timecell"><noscript>14:30</noscript></td>
-<td><a href="#Matthieu">Vesna Vuksanovic</td>
+<td><a href="#Vesna">Vesna Vuksanovic</td>
 </tr>
 	
 <tr>
 <td class="timecell"><noscript>15:00</noscript></td>
-<td><a href="#Matthieu">Peter Hitchcock</td>
+<td><a href="#Peter">Peter Hitchcock</td>
 </tr>
 	
 <tr>
-<td class="timecell"><noscript>15:00</noscript></td>
-<td><a href="#Matthieu">Peter Hitchcock</td>
+<td class="timecell"><noscript>16:00</noscript></td>
+<td>Break</td>
 </tr>
 		
 <tr>
