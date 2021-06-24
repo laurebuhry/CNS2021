@@ -1,5 +1,8 @@
 # CNS 2021 Workshop "Clinical computational neuroscience: How computational neuroscience can solve problems from the clinic"
 
+<script src="moment.js"></script>
+<script src="moment-timezone-with-data.js"></script>
+
 ## Organizers: Xenia Kobeleva and Laure Buhry
 
 ## Date: July 7th  — 9:30 am to 5:45 pm (Paris Time)
