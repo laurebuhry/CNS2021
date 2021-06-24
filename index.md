@@ -22,7 +22,7 @@ The day will be organized around three challenges:
 will follow soon
 
 ## Registration
-Please don’t forget to register for the conference at [Link](https://www.cnsorg.org/cns-2021)
+Please don’t forget to register for the conference at [https://www.cnsorg.org/cns-2021](https://www.cnsorg.org/cns-2021)
 
 ## Speakers
 * Kirk Leech, Executive Director of The European Animal Research Association (EARA)
