@@ -19,7 +19,81 @@ The day will be organized around three challenges:
 * [Challenge 3: Personalized medicine: how to make models fit the patient](#ch3)
 
 ## Schedule
-will follow soon
+
+<script>
+var start_time = moment.tz("2021-07-03 15:00", "Europe/Berlin"); // !!! also update start time in the <noscript> table in plain HTML
+
+s = "<label for=\"tz-selector\">Timezone:&nbsp;</label>";
+s += "<select class=\"select-css\" name=\"tz-selector\" id=\"tz-selector\" onChange=\"printTable(document.getElementById('schedule'), document.getElementById('tz-selector').value);\">";
+
+moment.tz.names().forEach(function (item, index) {
+	s += "<option value=\"" + item + "\"";
+	if (item.localeCompare("Europe/Berlin") == 0) {
+		s += " selected=\"selected\"";
+	}
+	s += ">" + item + "</option>";
+});
+
+s += "</select>";
+document.write(s);
+
+document.getElementById('tz-selector').value = "Europe/Berlin";
+
+function printTable(el, in_tz) {
+	//alert(in_tz);
+	for (var i = 0; i < document.getElementsByClassName('timecell').length; ++i) {
+		item = document.getElementsByClassName('timecell')[i];
+		berlin_time = item.querySelector('noscript').innerHTML.replace(/^\s+|\s+$/g, '');
+		//alert('old time: ' + berlin_time);
+		//alert('attempted new time: ' + start_time.format("YYYY-MM-DD hh:mm:ss").slice(0, -8) + berlin_time + ":00");
+		new_time = moment.tz(start_time.format("YYYY-MM-DD hh:mm:ss").slice(0, -8) + berlin_time + ":00", "Europe/Berlin").tz(in_tz);
+		//alert('new time: ' + new_time.format());
+		item.innerHTML = "<noscript>" + berlin_time + "</noscript>" + new_time.format('HH:mm');
+	}
+}
+
+window.addEventListener('load', (event) => {
+	printTable(document.getElementById('schedule'), document.getElementById('tz-selector').value);
+});
+
+</script>
+
+<div id="schedule" name="schedule">
+<table>
+<tr>
+<th>Time <noscript>(Berlin<br>timezone)</noscript></th>
+<th>Description</th>
+</tr>
+<tr>
+<td class="timecell"><noscript>15:00</noscript></td>
+<td>Welcome and introduction to NEST Simulator</td>
+</tr>
+<tr>
+<td class="timecell"><noscript>15:15</noscript></td>
+<td>Introduction and hands-on with NEST Desktop</td>
+</tr>
+<tr>
+<td class="timecell"><noscript>16:00</noscript></td>
+<td>Introduction to synaptic plasticity</td>
+</tr>
+<tr>
+<td class="timecell"><noscript>16:15</noscript></td>
+<td>Lunch break/social</td>
+</tr>
+<tr>
+<td class="timecell"><noscript>16:30</noscript></td>
+<td>Synaptic plasticity models in NESTML</td>
+</tr>
+<tr>
+<td class="timecell"><noscript>17:00</noscript></td>
+<td>Neural network models in NEST Simulator</td>
+</tr>
+<tr>
+<td class="timecell"><noscript>18:00</noscript></td>
+<td>Closing</td>
+</tr>
+</table>
+</div>
 
 ## Registration
 Please don’t forget to register for the conference at [https://www.cnsorg.org/cns-2021](https://www.cnsorg.org/cns-2021)
