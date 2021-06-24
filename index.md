@@ -71,12 +71,12 @@ window.addEventListener('load', (event) => {
 <td>Welcome and Introduction</td>
 </tr>
 <tr>
-<td class="timecell"><noscript>15:15</noscript></td>
-<td>Introduction and hands-on with NEST Desktop</td>
+<td class="timecell"><noscript>09:45</noscript></td>
+<td>[Kirk Leech](#Kirk)</td>
 </tr>
 <tr>
-<td class="timecell"><noscript>16:00</noscript></td>
-<td>Introduction to synaptic plasticity</td>
+<td class="timecell"><noscript>10:15</noscript></td>
+<td>Matthieu Gilson</td>
 </tr>
 </table>
 </div>
