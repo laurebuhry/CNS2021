@@ -73,17 +73,17 @@ window.addEventListener('load', (event) => {
 	
 <tr>
 <td class="timecell"><noscript>09:45</noscript></td>
-<td><a href="#Kirk">Kirk Leech</a></td>
+<td><a href="#Kirk">Kirk Leech: Update on the use of animals in research</a></td>
 </tr>
 	
 <tr>
 <td class="timecell"><noscript>10:15</noscript></td>
-<td><a href="#Matthieu">Matthieu Gilson</a></td>
+<td><a href="#Matthieu">Matthieu Gilson: Bridging spatial scales in biophysical models for translational clinical applications</a></td>
 </tr>
 	
 <tr>
 <td class="timecell"><noscript>10:45</noscript></td>
-<td>Panel discussion</a></td>
+<td>Panel discussion</td>
 </tr>
 	
 <tr>
@@ -93,12 +93,12 @@ window.addEventListener('load', (event) => {
 	
 <tr>
 <td class="timecell"><noscript>11:30</noscript></td>
-<td><a href="#Yujiang">Yujiang Wang</a></td>
+<td><a href="#Yujiang">Yujiang Wang: Towards time-adaptive treatments in epilepsy using data-driven subject-specific models</a></td>
 </tr>
 	
 <tr>
 <td class="timecell"><noscript>12:00</noscript></td>
-<td><a href="#Jil">Jil Meier</a></td>
+<td><a href="#Jil">Jil Meier: Multiscale co-simulation of deep brain stimulation</a></td>
 </tr>
 	
 <tr>
@@ -108,17 +108,17 @@ window.addEventListener('load', (event) => {
 	
 <tr>
 <td class="timecell"><noscript>14:00</noscript></td>
-<td><a href="#Christian">Christian Meisel</a></td>
+<td><a href="#Christian">Christian Meisel: Resilience in neural systems: from an understanding based on dynamical principles towards clinical diagnostics</a></td>
 </tr>
 	
 <tr>
 <td class="timecell"><noscript>14:30</noscript></td>
-<td><a href="#Vesna">Vesna Vuksanovic</a></td>
+<td><a href="#Vesna">Vesna Vuksanovic: Data-driven approach to neuroimaging analysis to identify dementia subtypes</a></td>
 </tr>
 	
 <tr>
 <td class="timecell"><noscript>15:00</noscript></td>
-<td><a href="#Peter">Peter Hitchcock</a></td>
+<td><a href="#Peter">Peter Hitchcock: On the Importance of Incorporating Time and Context in Computational Psychiatry Models</a></td>
 </tr>
 	
 <tr>
@@ -186,18 +186,17 @@ Our results indicate that slow (ultradian, circadian, and infradian) fluctuation
 Deep brain stimulation (DBS) has been successfully applied in various neurodegenerative diseases as an effective symptomatic treatment. However, its mechanisms of action within the brain network are still poorly understood. Many virtual DBS models analyze a subnetwork around the basal ganglia and its dynamics as a spiking network with their details validated by experimental data. However, connectomic evidence shows widespread effects of DBS affecting many different cortical and subcortical areas. From a clinical perspective, various effects of DBS besides the motoric impact have been demonstrated. The neuroinformatics platform The Virtual Brain (TVB) offers a modeling framework allowing us to virtually perform stimulation, including DBS, and forecast the outcome from a dynamic systems perspective prior to invasive surgery with DBS lead placement. For an accurate prediction of the effects of DBS, we implement a detailed spiking model of the basal ganglia, which we combine with TVB via our previously developed co-simulation environment. In the first demonstration of our model, we show that virtual DBS can move the basal ganglia firing rates of a Parkinson’s disease patient’s network towards the healthy regime. This study represents a proof of concept to perform virtual DBS in a co-simulation environment with TVB. The developed modeling approach has the potential to optimize DBS lead placement and configuration and forecast the success of DBS treatment for individual patients.
 
 ## Challenge 3: Personalized medicine: how to make models fit the patient<a name="ch3"></a>
-
+	
+### Christian Meisel<a name="Christian"></a>
+### Title: Resilience in neural systems: from an understanding based on dynamical principles towards clinical diagnostics
+In the recent years it has become apparent that dynamical system frameworks and bifurcation theory may apply to biomedical systems, beyond the systems classically considered in physics. Here, we will provide a critical survey of recent research in this field. We will discuss approaches building on dynamical systems theory to develop a better understanding of resilience and risk to rapid state changes, such as the onset of epileptic seizures, and how these theory-driven insights may provide clinical diagnostic markers.
+	
 ### Vesna Vuksanovic<a name="Vesna"></a>
 ### Title: Data-driven approach to neuroimaging analysis to identify dementia subtypes
 
 Understanding variations in neurodegeneration across brain disorders that cause dementia represents one of the main challenges in clinical neuroscience. Combining advanced neuroimaging with computational models in network neuroscience has already contributed to the understanding of biological bases of such variations. Here, I will present data on the analysis of the cortical networks, derived from magnetic resonance brain scans, to assess which organisational patterns of these networks are characteristics of dementia subtypes. Statistical methods of graph theory combined with hierarchical clustering was used to analyse topology of the cortical interactions across two types of dementia, frontotemporal dementia (its behavioural variant) and Alzheimer’s disease. The aim was to identify patients with more homogenous patterns of neurodegeneration.
 
-
-### Christian Meisel<a name="Christian"></a>
-### Title: Resilience in neural systems: from an understanding based on dynamical principles towards clinical diagnostics
-In the recent years it has become apparent that dynamical system frameworks and bifurcation theory may apply to biomedical systems, beyond the systems classically considered in physics. Here, we will provide a critical survey of recent research in this field. We will discuss approaches building on dynamical systems theory to develop a better understanding of resilience and risk to rapid state changes, such as the onset of epileptic seizures, and how these theory-driven insights may provide clinical diagnostic markers.
-
-
+	
 ### Peter Hitchcock<a name="Peter"></a>
 ### Title: On the Importance of Incorporating Time and Context in Computational Psychiatry Models
 Why has computational psychiatry been slow to influence routine clinical practice? I will argue that one reason is the field has had difficulty recognizing the variability among mental health problems—and, consequently, the need to model context and temporal dynamics for many problems. I will propose three heuristics for deciding when modeling time and context is important. And as a case study of when such modeling is important, I will highlight contextual factors and temporal dynamics relevant to rumination and worry and thus to depression and anxiety disorders.
