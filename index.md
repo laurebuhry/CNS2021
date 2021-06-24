@@ -75,7 +75,7 @@ window.addEventListener('load', (event) => {
 	
 <tr>
 <td class="timecell"><noscript>9:45</noscript></td>
-<td>[Kirk Leech](#Kirk): Update on the use of animals in research</td>
+<td>Kirk Leech: Update on the use of animals in research</td>
 </tr>
 
 </table>
