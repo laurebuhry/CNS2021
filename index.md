@@ -25,7 +25,7 @@ will follow soon
 * Kirk Leech, Executive Director of The European Animal Research Association (EARA)
 * Matthieu Gilson, Institute of Neuroscience and Medicine (INM-6) and Institute for Advanced Simulation (IAS-6) and JARA Institute Brain Structure-Function Relationships (INM-10), Jülich Research Centre, Jülich, Germany, and Center for Brain and Cognition, Department of Information and Telecommunication technologies, Universitat Pompeu Fabra, Barcelona, Spain
 * Julien Modolo (panel discussion), Research Scientist at INSERM, LTSI (Laboratory of Signal and Image processing) Rennes, France
-* Yujiang Wang, CNNP Lab, Interdisciplinary Computing and ComplexBioSystems Group, School of Computing, Newcastle University, Newcastle uponTyne, United Kingdom
+* Yujiang Wang, CNNP Lab, Interdisciplinary Computing and ComplexBioSystems Group, School of Computing, Newcastle University, Newcastle upon Tyne, United Kingdom
 * Jil Meier, Berlin Institute of Health at Charité – Universitätsmedizin Berlin, Berlin, Germany, and Charité – Universitätsmedizin Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Department of Neurology with Experimental Neurology, Brain Simulation Section, Berlin, Germany
 * Christian Meisel, Department of Neurology, Charité – Universitätsmedizin Berlin and Berlin Institute of Health, Berlin, Germany
 * Vesna Vuksanovic, Swansea University Medical School and Health Data Research United Kingdom
