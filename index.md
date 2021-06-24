@@ -70,14 +70,62 @@ window.addEventListener('load', (event) => {
 <td class="timecell"><noscript>09:30</noscript></td>
 <td>Welcome and Introduction</td>
 </tr>
+	
 <tr>
 <td class="timecell"><noscript>09:45</noscript></td>
 <td><a href="#Kirk">Kirk Leech</a></td>
 </tr>
+	
 <tr>
 <td class="timecell"><noscript>10:15</noscript></td>
-<td>Matthieu Gilson</td>
+<td><a href="#Matthieu">Matthieu Gilson</td>
 </tr>
+	
+<tr>
+<td class="timecell"><noscript>10:15</noscript></td>
+<td><a href="#Matthieu">Matthieu Gilson</td>
+</tr>
+	
+<tr>
+<td class="timecell"><noscript>11:30</noscript></td>
+<td><a href="#Matthieu">Yujiang Wang</td>
+</tr>
+	
+<tr>
+<td class="timecell"><noscript>12:00</noscript></td>
+<td><a href="#Matthieu">Jil Meier</td>
+</tr>
+	
+<tr>
+<td class="timecell"><noscript>13:00</noscript></td>
+<td><a href="#Matthieu">Break</td>
+</tr>
+	
+<tr>
+<td class="timecell"><noscript>14:00</noscript></td>
+<td><a href="#Matthieu">Christian Meisel</td>
+</tr>
+	
+<tr>
+<td class="timecell"><noscript>14:30</noscript></td>
+<td><a href="#Matthieu">Vesna Vuksanovic</td>
+</tr>
+	
+<tr>
+<td class="timecell"><noscript>15:00</noscript></td>
+<td><a href="#Matthieu">Peter Hitchcock</td>
+</tr>
+	
+<tr>
+<td class="timecell"><noscript>15:00</noscript></td>
+<td><a href="#Matthieu">Peter Hitchcock</td>
+</tr>
+		
+<tr>
+<td class="timecell"><noscript>16:30</noscript></td>
+<td><a href="#Matthieu">Final discussion</td>
+</tr>
+	
 </table>
 </div>
 
