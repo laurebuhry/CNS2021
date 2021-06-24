@@ -67,34 +67,17 @@ window.addEventListener('load', (event) => {
 <th>Time <noscript>(Berlin<br>timezone)</noscript></th>
 <th>Description</th>
 </tr>
+	
 <tr>
-<td class="timecell"><noscript>15:00</noscript></td>
-<td>Welcome and introduction to NEST Simulator</td>
+<td class="timecell"><noscript>9:30</noscript></td>
+<td>Welcome and introduction</td>
 </tr>
+	
 <tr>
-<td class="timecell"><noscript>15:15</noscript></td>
-<td>Introduction and hands-on with NEST Desktop</td>
+<td class="timecell"><noscript>9:45</noscript></td>
+<td>[Kirk Leech](#Kirk): Update on the use of animals in research</td>
 </tr>
-<tr>
-<td class="timecell"><noscript>16:00</noscript></td>
-<td>Introduction to synaptic plasticity</td>
-</tr>
-<tr>
-<td class="timecell"><noscript>16:15</noscript></td>
-<td>Lunch break/social</td>
-</tr>
-<tr>
-<td class="timecell"><noscript>16:30</noscript></td>
-<td>Synaptic plasticity models in NESTML</td>
-</tr>
-<tr>
-<td class="timecell"><noscript>17:00</noscript></td>
-<td>Neural network models in NEST Simulator</td>
-</tr>
-<tr>
-<td class="timecell"><noscript>18:00</noscript></td>
-<td>Closing</td>
-</tr>
+
 </table>
 </div>
 
