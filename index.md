@@ -67,8 +67,8 @@ window.addEventListener('load', (event) => {
 <th>Description</th>
 </tr>
 <tr>
-<td class="timecell"><noscript>15:00</noscript></td>
-<td>Welcome and introduction to NEST Simulator</td>
+<td class="timecell"><noscript>09:30</noscript></td>
+<td>Welcome and Introduction</td>
 </tr>
 <tr>
 <td class="timecell"><noscript>15:15</noscript></td>
