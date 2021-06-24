@@ -4,7 +4,7 @@
 
 ## Date: July 7th  — 9:30 am to 5:45 pm (Paris Time)
 
-## Abstract and Programme:
+## Description:
 
 Despite great advances in understanding of brain function using computational neuroscience, complex neural activity analyses and models are rarely used for clinical purposes. This workshop aims to bridge this gap and to bring computational neuroscientists and clinicians together to discuss current challenges and solutions for bringing more computational neuroscience to patient-oriented questions. Topics will include translation from animal models to patients, exploration of virtual therapies and personalized medicine. Apart from several success stories of clinical computational neuroscience, we will also have discussion rounds to deep dive into current challenges of the computational neuroscience community and their potential solutions. The outcome of the workshop will be to:
 
@@ -20,6 +20,9 @@ The day will be organized around three challenges:
 
 ## Schedule
 will follow soon
+
+## Registration
+Please don’t forget to register for the conference at [Link](https://www.cnsorg.org/cns-2021)
 
 ## Speakers
 * Kirk Leech, Executive Director of The European Animal Research Association (EARA)
