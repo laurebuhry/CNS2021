@@ -162,6 +162,11 @@ Please don’t forget to register for the conference at [https://www.cnsorg.org/
 * [Vesna Vuksanovic, Swansea University Medical School and Health Data Research United Kingdom](#Vesna)
 * [Peter Hitchcock, Cognitive, Linguistic, and Psychological Sciences, Brown University, Providence, RI](#Peter)
 
+	
+## Do you want to discuss with us and share your challenges and solutions of modelling in the clinical context?	
+Please join the workshop. Beforehand, feel free to submit questions and topics for the panel discussions [https://etherpad.wikimedia.org/p/cns2021](using this etherpad)
+	
+	
 ## Talk abstracts:
 
 ## Challenge 1: Translation from animal models to patients: bridging species and scales<a name="ch1"></a>
