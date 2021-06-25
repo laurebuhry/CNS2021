@@ -5,7 +5,7 @@
 
 ## Organizers: Xenia Kobeleva and Laure Buhry
 
-## Date: July 7th  — 9:30 am to 5:45 pm (Paris Time)
+## Date: July 7th  — 9:30 am to 5:45 pm (Paris Time)/ 3:30 am to 11:45 am (NY time)/ 1:30 pm to 9:45 pm (Australia)
 
 ## Description:
 
@@ -102,6 +102,11 @@ window.addEventListener('load', (event) => {
 </tr>
 	
 <tr>
+<td class="timecell"><noscript>12:30</noscript></td>
+<td>Panel discussion</td>
+</tr>
+	
+<tr>
 <td class="timecell"><noscript>13:00</noscript></td>
 <td>Break</td>
 </tr>
@@ -120,6 +125,11 @@ window.addEventListener('load', (event) => {
 <td class="timecell"><noscript>15:00</noscript></td>
 <td><a href="#Peter">Peter Hitchcock: On the Importance of Incorporating Time and Context in Computational Psychiatry Models</a></td>
 </tr>
+
+<tr>
+<td class="timecell"><noscript>15:30</noscript></td>
+<td>Panel discussion</td>
+</tr>
 	
 <tr>
 <td class="timecell"><noscript>16:00</noscript></td>
@@ -129,6 +139,11 @@ window.addEventListener('load', (event) => {
 <tr>
 <td class="timecell"><noscript>16:30</noscript></td>
 <td>Final discussion</td>
+</tr>
+	
+<tr>
+<td class="timecell"><noscript>17:15</noscript></td>
+<td>Social/further discussion (Breakout rooms)</td>
 </tr>
 	
 </table>
