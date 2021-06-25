@@ -165,7 +165,7 @@ window.addEventListener('load', (event) => {
 </div>
 
 ## Registration
-Please don’t forget to register for the conference at [https://www.cnsorg.org/cns-2021](https://www.cnsorg.org/cns-2021)
+Please don’t forget to register for the conference at  [https://www.cnsorg.org/cns-2021](https://www.cnsorg.org/cns-2021)
 
 ## Speakers
 * [Kirk Leech, Executive Director of The European Animal Research Association (EARA)](#Kirk)
@@ -179,7 +179,7 @@ Please don’t forget to register for the conference at [https://www.cnsorg.org/
 
 	
 ## Do you want to discuss with us and share your challenges and solutions of modelling in the clinical context?	
-Please join the workshop. Beforehand, feel free to submit questions and topics for the panel discussions [https://etherpad.wikimedia.org/p/cns2021](using this etherpad)
+Please join the workshop. Beforehand, feel free to submit questions and topics for the panel discussions [using this etherpad](https://etherpad.wikimedia.org/p/cns2021).
 	
 	
 ## Talk abstracts:
