@@ -70,6 +70,11 @@ window.addEventListener('load', (event) => {
 <td class="timecell"><noscript>09:30</noscript></td>
 <td>Welcome and Introduction</td>
 </tr>
+
+<tr>
+<td><noscript></noscript></td>
+<td><a href="#ch1"><b>Challenge 1: Translation from animal models to patients: bridging species and scales</b></a></td>
+</tr>	
 	
 <tr>
 <td class="timecell"><noscript>09:45</noscript></td>
