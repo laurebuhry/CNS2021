@@ -97,6 +97,11 @@ window.addEventListener('load', (event) => {
 </tr>
 	
 <tr>
+<td><noscript></noscript></td>
+<td><a href="#ch2"><b>Challenge 2: Virtual therapies: exploring new options and refining existing treatments</b></a></td>
+</tr>		
+	
+<tr>
 <td class="timecell"><noscript>11:30</noscript></td>
 <td><a href="#Yujiang">Yujiang Wang: Towards time-adaptive treatments in epilepsy using data-driven subject-specific models</a></td>
 </tr>
@@ -115,6 +120,11 @@ window.addEventListener('load', (event) => {
 <td class="timecell"><noscript>13:00</noscript></td>
 <td>Break</td>
 </tr>
+	
+<tr>
+<td><noscript></noscript></td>
+<td><a href="#ch3"><b>Challenge 3: Personalized medicine: how to make models fit the patient</b></a></td>
+</tr>		
 	
 <tr>
 <td class="timecell"><noscript>14:00</noscript></td>
@@ -173,8 +183,9 @@ Please join the workshop. Beforehand, feel free to submit questions and topics f
 	
 	
 ## Talk abstracts:
-
-## Challenge 1: Translation from animal models to patients: bridging species and scales<a name="ch1"></a>
+	
+<a name="ch1"></a>
+## Challenge 1: Translation from animal models to patients: bridging species and scales
 
 ### Kirk Leech<a name="Kirk"></a>
 ### Title: Update on the use of animals in research
@@ -193,8 +204,9 @@ In this talk I will focus on models for functional magnetic resonance imaging (f
 ### Julien Modolo (panel discussion)<a name="Julien"></a>
 The translation of neuromodulation strategies from in vivo to in clinico is notoriously challenging. Among those challenges, emerging approaches attempt at combining morphological and computational approaches of electric field dosimetry combined with realistic models of neuronal activity to predict the response of brain tissue to specific neuromodulation sequences. In this discussion panel, I will discuss existing strategies on the topic, along with their assumptions and capabilities, and how this could bring neuromodulation faster from animal to human studies.
 
-
-## Challenge 2: Virtual therapies: exploring new options and refining existing treatments<a name="ch2"></a>
+	
+<a name="ch2"></a>
+## Challenge 2: Virtual therapies: exploring new options and refining existing treatments
 
 ### Yujiang Wang<a name="Yujiang"></a>
 ### Title: Towards time-adaptive treatments in epilepsy using data-driven subject-specific models
@@ -210,7 +222,9 @@ Our results indicate that slow (ultradian, circadian, and infradian) fluctuation
 
 Deep brain stimulation (DBS) has been successfully applied in various neurodegenerative diseases as an effective symptomatic treatment. However, its mechanisms of action within the brain network are still poorly understood. Many virtual DBS models analyze a subnetwork around the basal ganglia and its dynamics as a spiking network with their details validated by experimental data. However, connectomic evidence shows widespread effects of DBS affecting many different cortical and subcortical areas. From a clinical perspective, various effects of DBS besides the motoric impact have been demonstrated. The neuroinformatics platform The Virtual Brain (TVB) offers a modeling framework allowing us to virtually perform stimulation, including DBS, and forecast the outcome from a dynamic systems perspective prior to invasive surgery with DBS lead placement. For an accurate prediction of the effects of DBS, we implement a detailed spiking model of the basal ganglia, which we combine with TVB via our previously developed co-simulation environment. In the first demonstration of our model, we show that virtual DBS can move the basal ganglia firing rates of a Parkinson’s disease patient’s network towards the healthy regime. This study represents a proof of concept to perform virtual DBS in a co-simulation environment with TVB. The developed modeling approach has the potential to optimize DBS lead placement and configuration and forecast the success of DBS treatment for individual patients.
 
-## Challenge 3: Personalized medicine: how to make models fit the patient<a name="ch3"></a>
+	
+<a name="ch3"></a>
+## Challenge 3: Personalized medicine: how to make models fit the patient
 	
 ### Christian Meisel<a name="Christian"></a>
 ### Title: Resilience in neural systems: from an understanding based on dynamical principles towards clinical diagnostics
