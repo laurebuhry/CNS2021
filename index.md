@@ -5,7 +5,7 @@
 
 ## Organizers: Xenia Kobeleva and Laure Buhry
 
-## Date: July 7th  — 9:30 am to 5:45 pm (Paris Time)/ 3:30 am to 11:45 am (NY time)/ 1:30 pm to 9:45 pm (Australia)
+## Date: July 7th  — 9:30 am to 5:45 pm (Paris Time)/ 3:30 am to 11:45 am (NY time)/ 5:30 pm to 1:45 am (Australia)
 
 ## Description:
 
