@@ -128,12 +128,12 @@ window.addEventListener('load', (event) => {
 	
 <tr>
 <td class="timecell"><noscript>14:00</noscript></td>
-<td><a href="#Christian">Christian Meisel: Resilience in neural systems: from an understanding based on dynamical principles towards clinical diagnostics</a></td>
+<td><a href="#Christian">Christian Meisel: Data-driven approach to neuroimaging analysis to identify dementia subtypes</a></td>
 </tr>
 	
 <tr>
 <td class="timecell"><noscript>14:30</noscript></td>
-<td><a href="#Vesna">Vesna Vuksanovic: Data-driven approach to neuroimaging analysis to identify dementia subtypes</a></td>
+<td><a href="#Vesna">Vesna Vuksanovic: Resilience in neural systems: from an understanding based on dynamical principles towards clinical diagnostics</a></td>
 </tr>
 	
 <tr>
@@ -227,13 +227,14 @@ Deep brain stimulation (DBS) has been successfully applied in various neurodegen
 ## Challenge 3: Personalized medicine: how to make models fit the patient
 	
 ### Christian Meisel<a name="Christian"></a>
-### Title: Resilience in neural systems: from an understanding based on dynamical principles towards clinical diagnostics
-In the recent years it has become apparent that dynamical system frameworks and bifurcation theory may apply to biomedical systems, beyond the systems classically considered in physics. Here, we will provide a critical survey of recent research in this field. We will discuss approaches building on dynamical systems theory to develop a better understanding of resilience and risk to rapid state changes, such as the onset of epileptic seizures, and how these theory-driven insights may provide clinical diagnostic markers.
-	
-### Vesna Vuksanovic<a name="Vesna"></a>
 ### Title: Data-driven approach to neuroimaging analysis to identify dementia subtypes
 
 Understanding variations in neurodegeneration across brain disorders that cause dementia represents one of the main challenges in clinical neuroscience. Combining advanced neuroimaging with computational models in network neuroscience has already contributed to the understanding of biological bases of such variations. Here, I will present data on the analysis of the cortical networks, derived from magnetic resonance brain scans, to assess which organisational patterns of these networks are characteristics of dementia subtypes. Statistical methods of graph theory combined with hierarchical clustering was used to analyse topology of the cortical interactions across two types of dementia, frontotemporal dementia (its behavioural variant) and Alzheimer’s disease. The aim was to identify patients with more homogenous patterns of neurodegeneration.
+	
+### Vesna Vuksanovic<a name="Vesna"></a>
+### Title: Resilience in neural systems: from an understanding based on dynamical principles towards clinical diagnostics
+	
+In the recent years it has become apparent that dynamical system frameworks and bifurcation theory may apply to biomedical systems, beyond the systems classically considered in physics. Here, we will provide a critical survey of recent research in this field. We will discuss approaches building on dynamical systems theory to develop a better understanding of resilience and risk to rapid state changes, such as the onset of epileptic seizures, and how these theory-driven insights may provide clinical diagnostic markers.
 
 	
 ### Peter Hitchcock<a name="Peter"></a>
